@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\Circle_Objects\bin\Debug\net6.0\Circle_Objects.exe
+C:\Users\bleat\source\repos\Circle_Objects\bin\Debug\net6.0\Circle_Objects.deps.json
+C:\Users\bleat\source\repos\Circle_Objects\bin\Debug\net6.0\Circle_Objects.runtimeconfig.json
+C:\Users\bleat\source\repos\Circle_Objects\bin\Debug\net6.0\Circle_Objects.dll
+C:\Users\bleat\source\repos\Circle_Objects\bin\Debug\net6.0\Circle_Objects.pdb
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.AssemblyInfo.cs
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.dll
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\refint\Circle_Objects.dll
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.pdb
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\Circle_Objects.genruntimeconfig.cache
+C:\Users\bleat\source\repos\Circle_Objects\obj\Debug\net6.0\ref\Circle_Objects.dll
